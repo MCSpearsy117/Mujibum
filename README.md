@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... changing myself ...
 - 🌱 I’m currently learning ... huffman coding ...
 - 💞️ I’m looking to collaborate on ... this↓
-- 📫 How to reach me ... on Telegram ... @NY7H1NG4NY71M31NG°
+- 📫 How to reach me ... on Telegram ... @NY7H1NG4NY71M31N'G°
 - 💰 If anyone tips me please tip me with BTC at my wallet address
      which is: 1NSfxF4xDzeiYKA4BZwiS7HcedaQyuEtZZ thank you anything
      would be awesome just to see it work :-)
