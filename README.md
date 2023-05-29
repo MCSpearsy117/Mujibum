@@ -1,8 +1,8 @@
-- 👋 Hi, I’m https://t.me/TheRealDeal_TRD
+- 👋 Hi, I’m https://t.me/ctOS_internet
 - 👀 I’m interested in ... changing myself ...
 - 🌱 I’m currently learning ... huffman coding ...
 - 💞️ I’m looking to collaborate on ... this↓
-- 📫 How to reach me ... on Telegram ... @ct0S_net
+- 📫 How to reach me ... on Telegram ... @ctOS_internet
 - 💰 If anyone tips me please tip me with BTC at my wallet address
      which is: 1NSfxF4xDzeiYKA4BZwiS7HcedaQyuEtZZ thank you anything
      would be awesome just to see it work :-)
