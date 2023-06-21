@@ -12,3 +12,6 @@
 Mujibum/Mujibum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+117-MC 00101110 01001100 00110000 01110110 00110011 01011111 01111001 00110000 01110101 00101010 "alt+shift" Guard all..
