@@ -1,6 +1,6 @@
 - 👋 Hi, I’m https://t.me/ctOS_internet
 - 👀 I’m interested in ... changing myself ...
-- 🌱 I’m currently learning ... huffman coding ...
+- 🌱 I’m currently learning ... other coding ...
 - 💞️ I’m looking to collaborate on ... this↓
 - 📫 How to reach me ... on Telegram ... @Spearsy117
 - 💰 If anyone tips me please tip me with BTC at my wallet address
@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Spearsy117-MC 00101110 01001100 00110000 01110110 00110011 01011111 01111001 00110000 01110101 00101010 "alt+shift" Guard all..
+MCSpearsy117 00101110 01001100 00110000 01110110 00110011 01011111 01111001 00110000 01110101 00101010 "alt+shift" Guard all..
